@@ -10,7 +10,7 @@ Welcome to IDP's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-Test test test test
+Section 1 section 1 section1
 
 
 Indices and tables
